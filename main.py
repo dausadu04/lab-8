@@ -1,6 +1,5 @@
 import requests
 import random
-import json
 
 
 def task_1():
